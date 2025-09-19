@@ -10,7 +10,7 @@
 
 ## ***✧ About Me ✧***
 
-*Hello hello, this profile is mainly for PonyTown~*
+*Hello hello, this profile is mainly for PonyTown~ wip from time to time*
 
 - Aria 
 - Adult (2002) | ♀
