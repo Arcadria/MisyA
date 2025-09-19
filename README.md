@@ -2,8 +2,9 @@
 <h1 align="center" style="color:#f6c1d1;">
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/03/a1/92/03a192a2407f3fede88135c034b7a13f.gif" alt="Pastel Sakura" width="100%" height="250px" />
+  <img src="[https://yourgiflink.gif](https://i.pinimg.com/originals/03/a1/92/03a192a2407f3fede88135c034b7a13f.gif)" alt="Pastel Sakura" width="100%" height="250px" />
 </p>
+
 
 <h3 align="center">︶⊹︶︶୨୧︶︶⊹︶</h3>
 
