@@ -1,9 +1,11 @@
-## " ᴇᴛɪᴀᴍ ɪɴ ᴀʀᴄᴀᴅɪᴀ, ᴍᴇᴄᴜᴍ ᴀᴅʜᴜᴄ ᴀᴍʙᴜʟᴀs. "
+<p align="center"> " ᴇᴛɪᴀᴍ ɪɴ ᴀʀᴄᴀᴅɪᴀ, ᴍᴇᴄᴜᴍ ᴀᴅʜᴜᴄ ᴀᴍʙᴜʟᴀs. "</p>
 <h1 align="center" style="color:#f6c1d1;">
 
-![Pastel Sakura Flowers](https://i.pinimg.com/originals/03/a1/92/03a192a2407f3fede88135c034b7a13f.gif)
+<p align="center">
+  <img src="https://i.pinimg.com/originals/03/a1/92/03a192a2407f3fede88135c034b7a13f.gif" alt="Pastel Sakura" width="100%" height="250px" />
+</p>
 
-_ _ _
+<h3 align="center">︶⊹︶︶୨୧︶︶⊹︶</h3>
 
 ## ***✧ About Me ✧***
 
@@ -20,9 +22,9 @@ _ _ _
 - **Please don't copy/take inspo from my designs,tysm! Most of my characters have "DNC"(Do Not Copy) in the name.**
 
 
-︶⊹︶︶୨୧︶︶⊹︶
+<h3 align="center">︶⊹︶︶୨୧︶︶⊹︶</h3>
 
-## ***DNI | DO NOT INTERRACT***
+## ***DNI | DO NOT INTERACT***
 
 - Basic DNI criteria / any -phobes
 - if you're just going to be an asshole to me/my friends
